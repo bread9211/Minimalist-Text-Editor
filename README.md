@@ -1,2 +1,0 @@
-# Minimalist-Text-Editor
-aZSAq
